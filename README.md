@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 pushing to staging area
 
 this is a sample project, deployment can be done on any servers
+### Copy right section 2018
