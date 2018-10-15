@@ -4,6 +4,7 @@
 # TEAM
 
     sudeendra -- architect -- sudeendra_ms@gmail.com
+    please review the course
 
 # THANKS
 
