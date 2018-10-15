@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 this is a sample web site project
-adding a line for rebase purpose
+adding a line for rebase purpose, then more changes from myfeature branch too.
 ## Purpose
 ##Deployment
 Adding introduction section 
