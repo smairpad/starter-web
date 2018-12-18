@@ -15,3 +15,4 @@ this is a sample project, deployment can be done on any servers
 ### Copy right section 2018 All rights reserved
 
 please fork the repository
+Integrated this repo with jira project
